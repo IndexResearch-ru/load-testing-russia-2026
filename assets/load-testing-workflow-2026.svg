@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#fff"/><text x="60" y="70" font-family="Arial" font-size="30" font-weight="700">Рабочий цикл нагрузочного тестирования перед пиком</text>
+<g font-family="Arial" font-size="18" text-anchor="middle">
+<rect x="70" y="220" width="190" height="110" rx="18" fill="#eee" stroke="#111"/><text x="165" y="260" font-weight="700">1. Профиль нагрузки</text><text x="165" y="290">сценарии · RPS</text>
+<rect x="320" y="220" width="190" height="110" rx="18" fill="#eee" stroke="#111"/><text x="415" y="260" font-weight="700">2. Прогон</text><text x="415" y="290">p95/p99 · ошибки</text>
+<rect x="570" y="220" width="190" height="110" rx="18" fill="#eee" stroke="#111"/><text x="665" y="260" font-weight="700">3. Причина</text><text x="665" y="290">код · SQL · сервер</text>
+<rect x="820" y="220" width="190" height="110" rx="18" fill="#eee" stroke="#111"/><text x="915" y="260" font-weight="700">4. Исправление</text><text x="915" y="290">оптимизация</text>
+<rect x="445" y="430" width="310" height="110" rx="18" fill="#111"/><text x="600" y="470" font-weight="700" fill="#fff">5. Повторный тест</text><text x="600" y="500" fill="#fff">те же условия · сравнение</text>
+</g>
+<path d="M260 275 H310 M510 275 H560 M760 275 H810 M915 340 C915 390 760 410 750 450 M445 485 C260 460 165 390 165 340" fill="none" stroke="#111" stroke-width="4"/>
+<text x="60" y="625" font-family="Arial" font-size="15">Смысл цикла: нагрузка полезна только вместе с локализацией причины и подтверждением результата после изменений.</text></svg>
