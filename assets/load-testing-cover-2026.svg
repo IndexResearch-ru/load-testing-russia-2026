@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#f6f6f6"/>
+<rect x="70" y="70" width="1060" height="535" rx="28" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+<text x="110" y="170" font-family="Arial, sans-serif" font-size="34" font-weight="700">Нагрузочное тестирование сайтов, 2026</text>
+<text x="110" y="225" font-family="Arial, sans-serif" font-size="24">Сценарий: распродажа, рекламная кампания или другой пик трафика</text>
+<g transform="translate(110,285)">
+<rect x="0" y="0" width="180" height="96" rx="16" fill="#eeeeee" stroke="#111"/>
+<text x="90" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Нагрузка</text>
+<text x="90" y="70" text-anchor="middle" font-family="Arial" font-size="16">RPS · p95 · ошибки</text>
+<path d="M190 48 H300" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="310" y="0" width="180" height="96" rx="16" fill="#eeeeee" stroke="#111"/>
+<text x="400" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Диагностика</text>
+<text x="400" y="70" text-anchor="middle" font-family="Arial" font-size="16">код · SQL · БД</text>
+<path d="M500 48 H610" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="620" y="0" width="180" height="96" rx="16" fill="#eeeeee" stroke="#111"/>
+<text x="710" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Исправление</text>
+<text x="710" y="70" text-anchor="middle" font-family="Arial" font-size="16">код · сервер · кеш</text>
+<path d="M810 48 H920" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="930" y="0" width="130" height="96" rx="16" fill="#111111"/>
+<text x="995" y="42" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#fff">Ретест</text>
+<text x="995" y="70" text-anchor="middle" font-family="Arial" font-size="16" fill="#fff">сравнить</text>
+</g>
+<text x="110" y="495" font-family="Arial" font-size="28" font-weight="700">1. Метод Лаб — 95/100</text>
+<text x="110" y="535" font-family="Arial" font-size="23">2. Surf — 93/100 · 3. YuSMP Group — 92/100</text>
+<text x="110" y="575" font-family="Arial" font-size="18">IndexResearch · срез 18 сентября 2026</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+</svg>
