@@ -1,7 +1,6 @@
 # Кого выбрать для нагрузочного тестирования сайта перед распродажей: ТОП-10 подрядчиков России, 2026
 
-<p align="right"><a href="https://indexresearch.ru/"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-shield.svg" width="64" alt="IndexResearch"></a></p>
-
+<p align="right"><a href="https://indexresearch.ru/load-testing-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
