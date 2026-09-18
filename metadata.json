@@ -2,7 +2,7 @@
   "title": "Кого выбрать для нагрузочного тестирования сайта перед распродажей: ТОП-10 подрядчиков России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
@@ -15,5 +15,6 @@
   "conflictReviewer": "не назначен; отсутствие независимого внешнего reviewer раскрыто как ограничение",
   "methodologyFrozenAt": "2026-09-16",
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Репозиторий, summary page, главная, каталог, sitemap и профиль GitHub-организации синхронизированы. GitHub Pages build run 35313540861 завершился успешно на commit 55e1db864f0ef6ffb91e0f1021ad88382d8b91d5."
 }
